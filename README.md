@@ -13,3 +13,9 @@ https://www.dropbox.com/s/l076cfy18nmgvgc/euronews_frames.7z?dl=0
 ## Evaluation
 
 The provided Matlab code computes precision and recall scores for evaluating ocr text localization performance. The common PASCAL IoU threshold of 0.5 was used. As a demo, we have included a set of results in results_captioncapture.txt
+
+### Instruction
+
+1. Download the dataset and provided code
+2. Modify dataset, annotation and ocr output paths as needed
+3. Run ocr_eval.m
